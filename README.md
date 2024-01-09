@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/online-resume-project.git
-2.Open in a Text Editor:
+2. Open in a Text Editor:
 Open the project folder in your preferred text editor (e.g., Visual Studio Code, Sublime Text).
 
 
