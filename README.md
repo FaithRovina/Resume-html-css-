@@ -1,4 +1,4 @@
-# Resume-html-css-
+# Resume
 # Online Resume Project
 
 This project is a simple online resume built using HTML and CSS. It serves as a learning exercise for understanding basic web development concepts and enhancing HTML/CSS skills.
